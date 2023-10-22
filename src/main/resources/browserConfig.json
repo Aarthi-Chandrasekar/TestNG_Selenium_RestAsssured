@@ -1,0 +1,6 @@
+{
+  "browser": "chrome",
+  "driverPath": "C:\\Webdrivers\\chromedriver.exe",
+  "headless": false,
+  "_comment": "Replace 'chrome' with Firefox or any browser driver URL as needed."
+}
